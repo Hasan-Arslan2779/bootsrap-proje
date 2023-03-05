@@ -19,6 +19,15 @@ The Udemy clone website includes the following features:
 * CSS3
 * Bootstrap 5.3
 
+# ScreenShot
+
+  <img src="https://github.com/Hasan-Arslan2779/bootsrap-proje/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(1).png" alt="Screenshot 1">
+  <img src="https://github.com/Hasan-Arslan2779/bootsrap-proje/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(2).png" alt="Screenshot 2">
+  <img src="https://github.com/Hasan-Arslan2779/bootsrap-proje/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(3).png" alt="Screenshot 3">
+  <img src="https://github.com/Hasan-Arslan2779/bootsrap-proje/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(4).png" alt="Screenshot 4">
+  
+  
+
 
 # To use the Udemy clone website, follow these steps:
 
